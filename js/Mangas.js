@@ -26,7 +26,7 @@ AFRAME.registerComponent("mangas", {
         {
           id: "tokyo_ghoul",
           title: "Tokyo Ghoul",
-          url: "../assets/thumbnails/cover4.jpg",
+          url: "assets/thumbnails/cover4.jpg",
         },
       ];
       let prevoiusXPosition = -60;
